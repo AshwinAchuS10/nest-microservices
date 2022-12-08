@@ -1,0 +1,9 @@
+[submodule "nest-gateway"]
+	path = nest-gateway
+	url = https://AshwinAchuS10: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@github.com/AshwinAchuS10/nest-gateway
+[submodule "nest-user"]
+	path = nest-user
+	url = https://AshwinAchuS10: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@github.com/AshwinAchuS10/nest-user
+[submodule "nest-mailer"]
+	path = nest-mailer
+	url = https://AshwinAchuS10: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@github.com/AshwinAchuS10/nest-mailer
